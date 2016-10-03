@@ -1,7 +1,7 @@
 <?php
   $config = array(
     'host'        	=>    'localhost',
-    'ip'			=>    '192.168.33.10',
+    'ip'		=>    'heloword.herokuapp.com',
     'port'       	=>    '9595',
     'database'    	=>    'bookcolor',
     'username'    	=>    'root',
