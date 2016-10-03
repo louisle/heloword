@@ -1,1 +1,1 @@
-# heloword
+<?php phpinfo() ?>
